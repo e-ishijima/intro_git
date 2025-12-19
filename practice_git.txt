@@ -1,4 +1,6 @@
 gitの練習を開始
 基本的なワークフローを学ぶ
 
-テスト
+git add
+git commit
+git rm
